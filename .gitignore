@@ -1,0 +1,14 @@
+# Dependencias de plugins TypeScript
+node_modules/
+
+# Plugins instalados (se restauran con el gestor de paquetes)
+plugins/
+packages/
+
+# Tipos auto-generados por fresh en cada carga
+types/
+
+# Backups del editor
+*.bak
+init.ts-
+init.ts.
