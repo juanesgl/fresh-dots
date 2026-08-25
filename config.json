@@ -1,5 +1,8 @@
 {
-  "theme": "catppuccin-frappe.json",
+  "theme": "catppuccin-macchiato.json",
+  "theme": "catppuccin-latte.json",
+  "theme": "catppuccin-mocha.json",
+  "theme": "catppuccin-macchiato.json",
   "locale": "en",
   "lsp": {
     "python": {
