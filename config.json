@@ -1,4 +1,5 @@
 {
+  "theme": "catppuccin-frappe.json",
   "locale": "en",
   "lsp": {
     "python": {
