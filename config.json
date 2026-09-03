@@ -37,5 +37,18 @@
       }
     }
   },
-  "version": 2
+  "version": 2,
+  "editor": {
+    "diagnostics_inline_text": true,
+    "screensaver_enabled": true,
+    "auto_save_enabled": true,
+    "rainbow_indentation": true,
+    "relative_line_numbers": true,
+    "nerd_font_icons": true,
+    "use_terminal_bg": false,
+    "show_horizontal_scrollbar": true,
+    "completion_popup_auto_show": true,
+    "show_prompt_line": true,
+    "ensure_final_newline_on_save": true
+  }
 }
